@@ -1,0 +1,18 @@
+
+# Ignore node_modules directory
+node_modules/
+
+# Ignore all text files
+*.txt
+
+# Ignore Mac system files
+.DS_Store
+
+# Ignore all .map files
+*.map
+
+# Ignore all compiled JavaScript files
+*.js
+
+# Ignore all .env files
+*.env
