@@ -1,4 +1,4 @@
-import { findLongestString } from "../TS Basics/Ts-Basic-exercises";
+import { findLongestString } from "../TS Basics/Ts-Basic-Exercises/findLongestString";
 
 describe('findLongestString', () => {
   it('should return the longest string', () => {

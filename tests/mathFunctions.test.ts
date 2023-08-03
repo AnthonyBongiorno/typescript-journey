@@ -1,4 +1,4 @@
-import { multiplyNumbers } from "../TS Basics/Ts-Basic-exercises";
+import { multiplyNumbers } from "../TS Basics/Ts-Basic-Exercises/multiplyNumbers";
 
 describe('multiplyNumbers', () => {
     it('multiplies two numbers correctly', () => {

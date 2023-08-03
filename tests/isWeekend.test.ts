@@ -1,4 +1,4 @@
-import { isWeekend, Day } from "../TS Basics/Ts-Basic-exercises";
+import { isWeekend, Day } from "../TS Basics/Ts-Basic-Exercises/isWeekend";
 
 describe('isWeekend', () => {
   it('should return true for weekend days', () => {

@@ -1,4 +1,4 @@
-import { describePerson, Person } from "../TS Basics/Ts-Basic-exercises";
+import { describePerson, Person } from "../TS Basics/Ts-Basic-Exercises/decribePerson";
 
 describe('describePerson', () => {
   it('should describe a person correctly', () => {
