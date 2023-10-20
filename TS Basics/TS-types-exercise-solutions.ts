@@ -6,7 +6,7 @@ let age: number = 19;
 // Declare a variable "taxRate" of type "number" and assign it the value 0.15.
 let taxRate: number = 0.15;
 
-// Declare a variable "isMarried" of type "boolean" and assign it the value false.
+// Declare a variable "isMarried" of type "boolean" and assign its the value false.
 let isMarried: boolean = false;
 
 // Declare a variable "firstName" of type "string" and assign it the value "Anthony".
